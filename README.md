@@ -1,4 +1,4 @@
-# BPMN-to-S-BPM-Ontology
+# Transform BPMN to S-BPM based on Ontologies
 This is a proposal for the transformation from BPMN to S-BPM OWL and contains a limited Set of BPMN elements, which are allowed. The prototype BPMN2SBPM is an executeable JAR file, which takes a BPMN file as input and generates a S-BPM OWL file. The following list shows the BPMN elements, which are included in this prototype:
 
 - bpmn2:collaboration
